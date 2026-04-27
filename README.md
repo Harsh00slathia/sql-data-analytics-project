@@ -10,4 +10,19 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Harsh Slathia**
+Hi, I'm **Harsh Slathia**, an aspiring **Data Science enthusiast** with a strong interest in transforming raw data into meaningful insights.
+
+* 📊 Skilled in: SQL, Python (Pandas, NumPy), Data Visualization
+* 🧠 Currently learning: Advanced SQL, Machine Learning, and BI tools
+* 🛠️ Tools I use: MySQL, PostgreSQL, Power BI, Excel
+* 📁 I enjoy working on real-world datasets and building analytics projects like this one
+
+This repository reflects my hands-on practice with SQL for data analysis, including writing efficient queries, performing trend analysis, and generating business insights.
+
+📫 Connect with me:
+
+* LinkedIn: www.linkedin.com/in/
+harsh-slathia-631ab1235
+
+
+
